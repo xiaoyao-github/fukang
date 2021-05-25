@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:12:13 +0800] "GET /pages/main.html HTTP/1.1" 200 7460 http-bio-82-exec-1 170
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:12:14 +0800] "GET /pages/ordersetting.html HTTP/1.1" 200 17598 http-bio-82-exec-3 50
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:12:14 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-82-exec-2 14
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:12:15 +0800] "GET /ordersetting/findOrderSettingByOrderDateMonth.do?date=2019-11 HTTP/1.1" 200 1320 http-bio-82-exec-4 459
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:12:18 +0800] "GET /pages/checkitem.html HTTP/1.1" 200 21462 http-bio-82-exec-6 57
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:12:18 +0800] "GET /pages/checkgroup.html HTTP/1.1" 200 24215 http-bio-82-exec-5 65
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:12:18 +0800] "POST /checkitem/findPage.do HTTP/1.1" 200 1383 http-bio-82-exec-7 369
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:12:18 +0800] "POST /checkgroup/findPage.do HTTP/1.1" 200 1354 http-bio-82-exec-8 94
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:13:01 +0800] "POST /checkgroup/findPage.do HTTP/1.1" 200 1354 http-bio-82-exec-10 54
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:16:53 +0800] "POST /checkitem/findPage.do HTTP/1.1" 200 1383 http-bio-82-exec-3 84

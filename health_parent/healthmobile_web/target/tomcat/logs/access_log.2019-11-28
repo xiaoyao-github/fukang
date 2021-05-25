@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:14:39:29 +0800] "GET /login.html HTTP/1.1" 404 971 http-bio-80-exec-4 213
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:14:39:30 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-5 2
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:14:39:35 +0800] "GET /pages/login.html HTTP/1.1" 200 4798 http-bio-80-exec-6 54
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:05:29 +0800] "GET /pages/login.html HTTP/1.1" 304 - http-bio-80-exec-1 103
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:05:30 +0800] "GET /img/asset-favico.ico HTTP/1.1" 200 4286 http-bio-80-exec-3 65
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:05:51 +0800] "POST /validateCode/send4Login.do?telephone=13212345678 HTTP/1.1" 200 59 http-bio-80-exec-4 261
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:06:19 +0800] "POST /login/check.do HTTP/1.1" 200 60 http-bio-80-exec-5 7589
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:06:43 +0800] "POST /login/check.do HTTP/1.1" 200 50 http-bio-80-exec-6 17881
+0:0:0:0:0:0:0:1 - - [28/Nov/2019:15:06:43 +0800] "GET /pages/index.html HTTP/1.1" 200 8416 http-bio-80-exec-7 66
